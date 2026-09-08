@@ -17,10 +17,13 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.sections
-    - toc.integrate
+    - toc.follow
+    - toc.permalink
 
 markdown_extensions:
   - admonition
+  - toc:
+      permalink: true
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.highlight:
