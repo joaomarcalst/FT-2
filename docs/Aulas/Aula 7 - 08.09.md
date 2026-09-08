@@ -1,8 +1,8 @@
 # Aula 7 - 08/09/2026
 
-# Resolução de Exercícios
+## Resolução de Exercícios
 
-## 1-101
+### 1-101
 
 Um ferro de passar de $1000 \text{ W}$ é deixado sobre a tábua de passar com sua base exposta ao ar à temperatura de $20 \text{\degree C}$. O coeficiente de transferência de calor por convecção entre a superfície da base e o ar nas vizinhanças é de $35 \text{ W/} \text{m}^{2} \cdot{} \degree C$. Se a base tem uma emissividade de $0.6$ e uma área de $0.02$ $m^{2}$, determinar a temperatura da base do ferro.
 
@@ -32,7 +32,7 @@ Por tentativa e erro, temos que :
 
 $$ \boxed{T_{s} = 947\ K = 649 \degree C} $$
 
-## 1-58
+### 1-58
 Uma panela de alumínio cuja condutividade térmica é $237\ \text{W}/m^{2} \cdot \degree C$ tem um fundo chato com diâmetro de $15$ cm e espessura de $0,4$ cm. O calor é transferido permanentemente através do seu fundo a uma taxa de $800$ W para ferver água. Se a supetfície interna do fundo da panela está a $105 \degree C$, determinar a temperatura da supetfície externa do fundo da panela.
 
 ![1-58](../img/exe/1-58.1.png)
@@ -53,7 +53,7 @@ $$ 800\ \text{W} = (237\ \text{W}/m^{2} \cdot \degree C)(0.01177\ \text{m}^{2})\
 
 $$ \boxed{T_{2} = 105.76\degree C} $$
 
-## 1-61
+### 1-61
 
 Uma forma de medir a condutividade térmica de um material é fazer um sanduíche de um aquecedor elétrico entre duas amostras retangulares idênticas do material e isolar fortemente os quatro lados externos, como mostrado na figura. Termopares instalados nas superfícies interior e exterior das amostras registram as temperaturas.
 
@@ -77,7 +77,7 @@ $$ \dot{Q} = kA\dfrac{\Delta T}{L} \rightarrow k = \dfrac{\dot{Q}{L}}{A\Delta T}
 
 $$\boxed{k = 0.781\ W/m \cdot \degree C}$$
 
-## 1-32
+### 1-32
 
 Um secador de cabelo é basicamente um duto no qual algumas camadas de resistências elétricas são colocadas. Um pequeno ventilador puxa o ar e força-o a fluir ao longo dos resistores onde é aquecido. 
 

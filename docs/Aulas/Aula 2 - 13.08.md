@@ -1,10 +1,10 @@
 # Aula 2 - 13/08/2026
 
-# Mecanismos de Transferência de Calor
+## Mecanismos de Transferência de Calor
 
-## Condução
+### Condução
 
-### Características
+#### Características
 
 1. Ocorre entre 2 corpos que estejam em contato
 	- Transferencia ocorre entre : maior > menor energia\
@@ -21,8 +21,8 @@ Um material bom condutor possui $\equiv k$ elevado, já um bom isolante, $k$ bai
 **Alguns valores de Condutivade Térmica**
 ![tab_cond_termica](../img/a1_tabela_cond_termica.png)
 
-## Radiação
-### Características
+### Radiação
+#### Características
 
 1. Não precisa de contato, um meio, entre os corpos
 2. A troca de energia é feita por meio de ondas eletromagnéticas
@@ -48,8 +48,8 @@ e a Taxa Líquida de absorção de radiação térmica é dada por :
 
 $$ P_{\text{rad}} = \sigma \cdot \epsilon \cdot A(T^{4}_{\text{amb}} - T^{4})$$
 
-## Convecção
-### Características
+### Convecção
+#### Características
 
 1. Ocorre em meio fluido
 2. Provocado por variações locais na densidade do fluido
@@ -62,6 +62,6 @@ a Taxa é dada por :
 $$Q = h \cdot A \cdot (T_s - T_f)$$
 
 
-## Calor e Trabalho
+### Calor e Trabalho
 
 Em $1845$ joule propôs o Equivalente mecânico do calor, em que Trabalho ($J$)...
