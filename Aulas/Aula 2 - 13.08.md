@@ -19,7 +19,7 @@ $$ P_{cond} = \frac{Q}{\Delta t} = \frac{k \cdot A \cdot (T_i - T_f)}{L}$$
 Um material bom condutor possui $\equiv k$ elevado, já um bom isolante, $k$ baixo. Em que $k$ é a condutividade térmica do material.
 
 **Alguns valores de Condutivade Térmica**
-![tab_cond_termica](img/a1_tabela_cond_termica.png)
+![tab_cond_termica](../img/a1_tabela_cond_termica.png)
 
 ## Radiação
 ### Características

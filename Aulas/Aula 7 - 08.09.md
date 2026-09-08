@@ -6,7 +6,7 @@
 
 Um ferro de passar de $1000 \text{ W}$ é deixado sobre a tábua de passar com sua base exposta ao ar à temperatura de $20 \text{\degree C}$. O coeficiente de transferência de calor por convecção entre a superfície da base e o ar nas vizinhanças é de $35 \text{ W/} \text{m}^{2} \cdot{} \degree C$. Se a base tem uma emissividade de $0.6$ e uma área de $0.02$ $m^{2}$, determinar a temperatura da base do ferro.
 
-![1-101](img/exe/1-101.1.png)
+![1-101](../img/exe/1-101.1.png)
 
 **Solução**
 
@@ -35,7 +35,7 @@ $$ \boxed{T_{s} = 947\ K = 649 \degree C} $$
 ## 1-58
 Uma panela de alumínio cuja condutividade térmica é $237\ \text{W}/m^{2} \cdot \degree C$ tem um fundo chato com diâmetro de $15$ cm e espessura de $0,4$ cm. O calor é transferido permanentemente através do seu fundo a uma taxa de $800$ W para ferver água. Se a supetfície interna do fundo da panela está a $105 \degree C$, determinar a temperatura da supetfície externa do fundo da panela.
 
-![1-58](img/exe/1-58.1.png)
+![1-58](../img/exe/1-58.1.png)
 
 **Solução**
 
@@ -59,7 +59,7 @@ Uma forma de medir a condutividade térmica de um material é fazer um sanduích
 
 Durante um experimento, duas amostras de $10\ \text{cm} \times 10\ \text{cm}$ de tamanho e $0.5$ cm de espessura foram utilizadas. Quando atingiu uma operação permanente, o aquecedor consumia $25\ \text{W}$ de potência elétrica e a temperatura de cada amostra observava uma queda de $82 \degree C$ na superfície interna para $74 \degree C$ na superfície externa. Determinar a condutividade térmica do material na temperatura média.
 
-![1-61](img/exe/1-61.1.png)
+![1-61](../img/exe/1-61.1.png)
 
 **Solução**
 
@@ -85,7 +85,7 @@ O ar entra num secador de cabelo de $1200\ \text{W}$ a $100\ \text{kPa}$ e $22\d
 
 Desprezando a potência consumida pelo ventilador e as perdas de calor através das paredes do secador de cabelo, determinar (a) a vazão volumétrica de ar na entrada e (b) a velocidade do ar na saída.
 
-![1-32](img/exe/1-32.1.png)
+![1-32](../img/exe/1-32.1.png)
 
 **Solução**
 
