@@ -8,4 +8,4 @@
 * [Aula 6 - 01.09](./Aula%206%20-%2001.09.md)
 * [Aula 7 - 08.09](./Aula%207%20-%2008.09.md)
 
-[⬅ Voltar para o Sumário Principal](../README.md)
+[⬅ Voltar para o Sumário Principal](../index.md)
