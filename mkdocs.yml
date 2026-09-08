@@ -1,0 +1,52 @@
+site_name: Fenômenos de Transporte 2
+site_url: https://joaomarcalst.github.io/FT-2/
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Mudar para modo escuro
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para modo claro
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - toc.integrate
+
+markdown_extensions:
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+
+plugins:
+  - search
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.8/katex.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.8/contrib/auto-render.min.js
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.8/katex.min.css
+
+nav:
+  - Início: README.md
+  - Aulas:
+    - Aula 1: Aulas/Aula 1 - 11.08.md
+    - Aula 2: Aulas/Aula 2 - 13.08.md
+    - Aula 3: Aulas/Aula 3 - 18.08.md
+    - Aula 4: Aulas/Aula 4 - 25.08.md
+    - Aula 5: Aulas/Aula 5 - 27.08.md
+    - Aula 6: Aulas/Aula 6 - 01.09.md
+    - Aula 7: Aulas/Aula 7 - 08.09.md
+  - Exercícios:
+    - Lista 1: Exercicios/Lista 1.md
